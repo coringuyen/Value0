@@ -8,7 +8,7 @@ private:
 	
 public:
 	
-	void Solution(int input[], int length);
-	void SolutionSpeed();
+	void Solution(int input[], int length, bool isSpeed);
+	void Solution2(int input[], int length, bool isSpeed);
 	void printArray(int input[], int length);
 };
